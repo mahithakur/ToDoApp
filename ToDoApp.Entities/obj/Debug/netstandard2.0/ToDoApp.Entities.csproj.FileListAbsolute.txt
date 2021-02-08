@@ -1,0 +1,9 @@
+C:\Users\mesah\source\repos\ToDoApp\ToDoApp.Entities\bin\Debug\netstandard2.0\ToDoApp.Entities.deps.json
+C:\Users\mesah\source\repos\ToDoApp\ToDoApp.Entities\bin\Debug\netstandard2.0\ToDoApp.Entities.dll
+C:\Users\mesah\source\repos\ToDoApp\ToDoApp.Entities\bin\Debug\netstandard2.0\ToDoApp.Entities.pdb
+C:\Users\mesah\source\repos\ToDoApp\ToDoApp.Entities\obj\Debug\netstandard2.0\ToDoApp.Entities.csprojAssemblyReference.cache
+C:\Users\mesah\source\repos\ToDoApp\ToDoApp.Entities\obj\Debug\netstandard2.0\ToDoApp.Entities.AssemblyInfoInputs.cache
+C:\Users\mesah\source\repos\ToDoApp\ToDoApp.Entities\obj\Debug\netstandard2.0\ToDoApp.Entities.AssemblyInfo.cs
+C:\Users\mesah\source\repos\ToDoApp\ToDoApp.Entities\obj\Debug\netstandard2.0\ToDoApp.Entities.csproj.CoreCompileInputs.cache
+C:\Users\mesah\source\repos\ToDoApp\ToDoApp.Entities\obj\Debug\netstandard2.0\ToDoApp.Entities.dll
+C:\Users\mesah\source\repos\ToDoApp\ToDoApp.Entities\obj\Debug\netstandard2.0\ToDoApp.Entities.pdb
