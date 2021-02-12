@@ -32,6 +32,7 @@ namespace ToDoApp.Web
             services.AddDbContext<ToDoApp.Data.ToDoAppContext>(options => options.UseSqlServer(conn, b => b.MigrationsAssembly("ToDoApp.Web")));
 
             services.AddScoped<ICategoryService, CategoryService>();
+            services.AddScoped<ITaskService, TaskService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

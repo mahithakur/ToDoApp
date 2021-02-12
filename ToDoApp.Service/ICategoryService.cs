@@ -8,5 +8,8 @@ namespace ToDoApp.Service
     public interface ICategoryService
     {
         IEnumerable<Category> GetAllCategories();
+        Category GetById(int id);
+
+        bool DeleteCategory(int id);
     }
 }

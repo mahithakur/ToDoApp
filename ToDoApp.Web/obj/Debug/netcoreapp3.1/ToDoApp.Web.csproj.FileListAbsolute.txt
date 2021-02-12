@@ -83,3 +83,4 @@ C:\Users\mesah\source\repos\ToDoApp\ToDoApp.Web\obj\Debug\netcoreapp3.1\ToDoApp.
 C:\Users\mesah\source\repos\ToDoApp\ToDoApp.Web\obj\Debug\netcoreapp3.1\ToDoApp.Web.dll
 C:\Users\mesah\source\repos\ToDoApp\ToDoApp.Web\obj\Debug\netcoreapp3.1\ToDoApp.Web.pdb
 C:\Users\mesah\source\repos\ToDoApp\ToDoApp.Web\obj\Debug\netcoreapp3.1\ToDoApp.Web.genruntimeconfig.cache
+C:\Users\mesah\source\repos\ToDoApp\ToDoApp.Web\obj\Debug\netcoreapp3.1\Razor\Views\Task\Index.cshtml.g.cs

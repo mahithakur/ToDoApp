@@ -16,9 +16,29 @@ namespace ToDoApp.Service
             _db = db;
         }
 
+        public bool DeleteCategory(int id)
+        {
+            var category = _db.Categories.Find(id);
+            if (category == null)
+                return false;
+
+            _db.Categories.Remove(category);
+            _db.SaveChanges();
+            return true;
+        }
+
         public IEnumerable<Category> GetAllCategories()
         {
             return _db.Categories.ToList();
+        }
+
+        public Category GetById(int id)
+        {
+           var category = _db.Categories.Find(id);
+            if (category == null)
+                return null;
+
+            return category;
         }
     }
 }
