@@ -1,0 +1,8 @@
+﻿@model List<ToDoApp.Entities.Task>
+
+@{
+    foreach (var task in Model)
+    {
+        <p>@task.TaskName | @task.Active</p>
+    }
+}

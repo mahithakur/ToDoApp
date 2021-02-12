@@ -1,0 +1,12 @@
+C:\Users\mesah\source\repos\ToDoApp\ToDoApp.Data\bin\Release\netcoreapp3.1\ToDoApp.Data.deps.json
+C:\Users\mesah\source\repos\ToDoApp\ToDoApp.Data\bin\Release\netcoreapp3.1\ToDoApp.Data.dll
+C:\Users\mesah\source\repos\ToDoApp\ToDoApp.Data\bin\Release\netcoreapp3.1\ToDoApp.Data.pdb
+C:\Users\mesah\source\repos\ToDoApp\ToDoApp.Data\bin\Release\netcoreapp3.1\ToDoApp.Entities.dll
+C:\Users\mesah\source\repos\ToDoApp\ToDoApp.Data\bin\Release\netcoreapp3.1\ToDoApp.Entities.pdb
+C:\Users\mesah\source\repos\ToDoApp\ToDoApp.Data\obj\Release\netcoreapp3.1\ToDoApp.Data.csprojAssemblyReference.cache
+C:\Users\mesah\source\repos\ToDoApp\ToDoApp.Data\obj\Release\netcoreapp3.1\ToDoApp.Data.AssemblyInfoInputs.cache
+C:\Users\mesah\source\repos\ToDoApp\ToDoApp.Data\obj\Release\netcoreapp3.1\ToDoApp.Data.AssemblyInfo.cs
+C:\Users\mesah\source\repos\ToDoApp\ToDoApp.Data\obj\Release\netcoreapp3.1\ToDoApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\mesah\source\repos\ToDoApp\ToDoApp.Data\obj\Release\netcoreapp3.1\ToDoApp.Data.csproj.CopyComplete
+C:\Users\mesah\source\repos\ToDoApp\ToDoApp.Data\obj\Release\netcoreapp3.1\ToDoApp.Data.dll
+C:\Users\mesah\source\repos\ToDoApp\ToDoApp.Data\obj\Release\netcoreapp3.1\ToDoApp.Data.pdb
